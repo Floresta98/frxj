@@ -1,0 +1,38 @@
+<!doctype html>
+<html>
+<head>
+
+<meta charset="UTF-8">
+
+<script>
+	var nome = prompt('CUAL É O TEU NOUME ???? ' );
+	var pezo  =	parseFloat (prompt('qual teu pezo ???' +nome ));
+	var altura = parseFloat (prompt('qual é tua altura ?'));	
+    var maza = parseFloat ( pezo / ( altura * altura ));
+	document.write('zeu indize de maza copural é  ' +maza );
+	alert(' AFFIS ZEU BURO  ');
+
+</script>
+
+
+
+
+<H1>É UMA PIADA</H1>
+mas todo mundo sabe que tu é gordo n vai mudar nada ( ͡° ͜ʖ ͡°) 
+
+
+</head>
+
+
+
+
+
+
+<body>
+
+
+
+
+
+
+</body>
